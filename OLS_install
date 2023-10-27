@@ -219,3 +219,7 @@ Secure: No
 Virtual Host Mappings
 Virtual Host: name_site
 Domains: name_site
+
+WP-Cli 
+
+ln -s /usr/local/lsws/lsphp74/bin/php /usr/local/bin/php7.4
